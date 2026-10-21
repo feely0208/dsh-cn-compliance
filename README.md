@@ -1,5 +1,7 @@
 # @deepwhale-cn/dsh-cn-compliance
 
+[![dshfind 收录](https://dshfind.com/api/badge/feely0208/dsh-cn-compliance?lang=zh)](https://dshfind.com/zh/plugins/feely0208/dsh-cn-compliance)
+
 [![Listed on DSH Plugin Hub](https://dsh-plugin.org/badges/listed.svg)](https://dsh-plugin.org/zh/plugins/feely0208/dsh-cn-compliance)
 
 
