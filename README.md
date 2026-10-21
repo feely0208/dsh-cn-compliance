@@ -100,3 +100,7 @@ SITE_HOST=https://your-domain.example DOCS_DIRS="./docs:./README.md" bash <scan.
 ## 许可
 
 MIT
+
+---
+
+<p align="right"><a href="https://deepwhale.org.cn"><img src="https://www.deepwhale.org.cn/images/badge/deepwhale-badge.png" alt="powered by dwh" height="20"></a></p>
